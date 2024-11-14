@@ -79,7 +79,16 @@ tela associada ao defeito identificado.</li>
 classificados de acordo com as prioridades e severidades definidas no 
 projeto. </li>
 
+### 7- Comunicação ### 
+<li>Dailys diárias </li>
+<li>Status Report</li>
+<li>Slack </li>
 
+### 8- Relatório de Defeitos ### 
+O relatório de defeitos será compartilhado com todos os envolvidos em 
+formato Excel e também ficará disponível na ferramenta Jira. 
+
+### 9- Recursos (Hardware/Software) ### 
 
 
 
