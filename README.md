@@ -49,6 +49,13 @@ superior. </li>
 outra janela (_blank): - Trabalhe Conosco: https://site.vagas.com.br/gru - GRU Cargo: http://www.grucargo.com.br/index.aspx - RI: http://ri.gru.com.br/default_pt.asp?idioma=0&conta=28</li>
 
 ### 3- Declaração de Escopo ### 
+| O escopo de teste cobre | O escopo de teste não cobre|
+|----------|----------|
+| Funcionalidade: Cabeçalho da Home para passageiros (Desktop)   | Teste Unitários serão executados pela equipe de desenvolvimento |
+|Funcionalidade: Menu de “como chegar” (Desktop)  | Testes que fogem do escopo da demanda  |
+
+
+
 
 
 
