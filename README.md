@@ -63,6 +63,22 @@ outra janela (_blank): - Trabalhe Conosco: https://site.vagas.com.br/gru - GRU C
 
 ![Tipos de testes](https://imgur.com/BPMkfz9.png)
 
+### 6- Estratégias de testes ### 
+<li> Os testes serão realizados com foco em cobertura funcional das telas 
+e navegabilidade, validando se todas as interfaces e páginas 
+interagem conforme descrito na especificação funcional. </li>
+<li>A abordagem será funcional, com base no mapa de cobertura gerado 
+na análise do processo de testes, validando a implementação e fluxo 
+das interfaces descritas no documento. </li>
+<li>As evidências dos testes serão coletadas por meio de imagens e 
+armazenadas no Google Drive conforme os cenários de teste 
+executados.</li>
+<li>Cada falha ou defeito encontrado será registrado com uma captura de 
+tela associada ao defeito identificado.</li>
+<li> Os defeitos serão reportados por meio de chamados abertos, 
+classificados de acordo com as prioridades e severidades definidas no 
+projeto. </li>
+
 
 
 
