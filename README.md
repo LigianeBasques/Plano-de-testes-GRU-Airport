@@ -17,6 +17,11 @@ ___
 |  |   |  |  |
 |  |  |  |  |
 
+### 1-Visão Geral do Projeto ### 
+O projeto visa o desenvolvimento do site do Aeroporto de Guarulhos (GRU 
+Airport) com foco na experiência do usuário e facilidade de administração. O site 
+será responsivo, multi-idioma, com busca de voos, reservas, lojas e gestão via 
+SharePoint.
 
 
 
