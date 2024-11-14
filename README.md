@@ -95,12 +95,12 @@ formato Excel e também ficará disponível na ferramenta Jira.
 | Dispositivos Desktop   | Windows 10/11 para desktops.  |
 | Dispositivos Móveis  | iOS e Android para dispositivos móveis |
 | Servidor: Windows Server 2012 para o backend| Navegadores Compatíveis   |
-| Linha 4  | Linha 4  |
-| Linha 5  | Linha 5  |
-| Linha 6  | Linha 6  |
-| Linha 7  | Linha 7  |
-| Linha 8  | Linha 8  |
-| Linha 9  | Linha 9  |
+| Servidor: SQL Server 2014 para o banco de dados   | Ferramenta de automação de testes  |
+|   | BrowserStack  |
+|  | JMeter ou Gatling |
+|   | Jira  |
+|  | Google Lighthouse |
+
 
 
 
