@@ -58,6 +58,11 @@ outra janela (_blank): - Trabalhe Conosco: https://site.vagas.com.br/gru - GRU C
 
 ![Cronogrma](https://imgur.com/5OTekBa.png)
 
+### 5- Abordagem de testes ### 
+**5.1 Tipos de testes**
+
+![Tipos de testes](https://imgur.com/BPMkfz9.png)
+
 
 
 
