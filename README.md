@@ -48,6 +48,8 @@ superior. </li>
 <li>Alguns links do projeto remeterão à URLs externas e devem abrir em 
 outra janela (_blank): - Trabalhe Conosco: https://site.vagas.com.br/gru - GRU Cargo: http://www.grucargo.com.br/index.aspx - RI: http://ri.gru.com.br/default_pt.asp?idioma=0&conta=28</li>
 
+### 3- Declaração de Escopo ### 
+
 
 
 
