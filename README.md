@@ -23,6 +23,17 @@ Airport) com foco na experiência do usuário e facilidade de administração. O
 será responsivo, multi-idioma, com busca de voos, reservas, lojas e gestão via 
 SharePoint.
 
+### 2-Premissas e Restrições ### 
+**2.1 Premissas Gerais**
+<li>O site do aeroporto de Guarulhos deve ser responsivo (com duas 
+resoluções: Destkop: 1290x768 Mobile: 360x480), exceto nos portais 
+Cargo e de Investidores que serão links externos. </li>
+<li>O site deve ser multi-idioma considerando os idiomas português, 
+inglês e espanhol</li>
+<li>Todas as páginas de conteúdo deverão ser editáveis pelo 
+administrador do site através de um painel administrativo.</li>
+<li>Utilizar os conceitos básicos de SEO. </li>
+
 
 
 
