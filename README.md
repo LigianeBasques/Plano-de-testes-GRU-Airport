@@ -34,6 +34,19 @@ inglês e espanhol</li>
 administrador do site através de um painel administrativo.</li>
 <li>Utilizar os conceitos básicos de SEO. </li>
 
+**2.2 Restrições**
+<li>O backend do site deve ser administrado utilizando o Microsoft 
+Sharepoint em sua versão 2013 (15.0.4805.1000 - KB3114822). </li>
+<li>O servidor onde a aplicação será instalada será um Windows Server 
+2012 = NT 6.2. 9600</li>
+<li>O servidor de banco de dados da aplicação será um SQL Server 2014 
+SP1 CU5 = 12.0.4439.1 - KB3130926. </li>
+<li>O frontend do site deve ser plenamente compatível com os 
+navegadores: Internet Explorer 9 ou superior, Mozilla Firefox 3 ou 
+superior, Safari 5 ou superior, Safari iOS e Google Chrome 47 ou 
+superior. </li>
+<li>Alguns links do projeto remeterão à URLs externas e devem abrir em 
+outra janela (_blank): - Trabalhe Conosco: https://site.vagas.com.br/gru - GRU Cargo: http://www.grucargo.com.br/index.aspx - RI: http://ri.gru.com.br/default_pt.asp?idioma=0&conta=28</li>
 
 
 
