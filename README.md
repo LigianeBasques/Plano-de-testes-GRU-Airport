@@ -54,6 +54,11 @@ outra janela (_blank): - Trabalhe Conosco: https://site.vagas.com.br/gru - GRU C
 | Funcionalidade: Cabeçalho da Home para passageiros (Desktop)   | Teste Unitários serão executados pela equipe de desenvolvimento |
 |Funcionalidade: Menu de “como chegar” (Desktop)  | Testes que fogem do escopo da demanda  |
 
+### 4- Cronograma ### 
+
+![Cronogrma](https://imgur.com/5OTekBa.png)
+
+
 
 
 
